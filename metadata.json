@@ -1,0 +1,6 @@
+{
+  "name": "MDMDS: Medical Device Modification Decision System",
+  "description": "A high-performance regulatory expert system with AI orchestration, painterly UI styles, and live analytics for TFDA compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-Powered Regulatory Engine", "Painter Style UI", "Asynchronous Agent Chain"]
+}
